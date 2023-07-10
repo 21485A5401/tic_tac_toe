@@ -1,4 +1,4 @@
-# react-tictactoe
+# tic_tac_toe
 
 ![alt-text](https://imgur.com/pnFGz02.jpg)
 
@@ -21,4 +21,4 @@ listening on a specified port (3000). A browser window should open with the URL 
 To run two clients at once, open a new tab with the same URL. The two tabs will now be playing against each
 other.
 
-[Assignment Final Report](https://github.com/johngohrw/react-tictactoe/raw/master/Report_JohnGohRengwu_27150437.pdf) 
+
