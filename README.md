@@ -1,6 +1,9 @@
-# tic_tac_toe
-![image](https://github.com/21485A5401/tic_tac_toe/assets/99805823/6c57231b-9e2d-4322-a89d-1a5dd290ee06)
-A simple browser-based tic-tac-toe game that depends on a locally-run nodejs server. Done for a school assignment in early 2018.
+# react-tictactoe
+
+![alt-text](https://imgur.com/pnFGz02.jpg)
+
+
+A simple browser-based tic-tac-toe game that depends on a locally-run nodejs server. Done for a school assignment in early 2018. 
 
 ## Steps to run
 
@@ -17,3 +20,5 @@ Now, the server will listen to the specified port (4001) and webpack will compil
 listening on a specified port (3000). A browser window should open with the URL ‘http://localhost:3000’.
 To run two clients at once, open a new tab with the same URL. The two tabs will now be playing against each
 other.
+
+[Assignment Final Report](https://github.com/johngohrw/react-tictactoe/raw/master/Report_JohnGohRengwu_27150437.pdf) 
